@@ -58,6 +58,7 @@ header {
   padding: 5px 30px;
   border-right: 1px solid #ffa801;
   transition: color 0.3s ease-in-out;
+  font-size: 20px;
 }
 .nav-menu a:hover {
   color: #ffa801;
